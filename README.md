@@ -1,2 +1,3 @@
 # kakas-uts-mairah
-UTS KAKAS
+UTS KAKAS 
+NASI KUNING
